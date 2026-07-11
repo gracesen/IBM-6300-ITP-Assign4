@@ -1,0 +1,51 @@
+---
+title: "ITP-Shopify Store - Assignment 4 - Collections and Navigation"
+author: "Grace Sen"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# **Screenshots**
+
+## Collections in the Shopify admin
+
+![](images/collections.png)
+
+## Collection pages on the storefront
+
+![***Gift Ideas***](images/gift.png)
+
+![***Pantry Favorites***](images/pantry.png)
+
+![***Fresh Produce***](images/produce.png)
+
+## Main navigation menu on the storefront
+
+![](images/navigation menu.png)
+
+# **Merchandising logic explanation**
+
+I organized the products into collections based on how customers naturally shop for farm products. Fresh fruits and vegetables were grouped into ***Fresh Produce***, pantry items such as honey and jams were placed in ***Pantry Favorites***, and customizable baskets and specialty items were grouped under ***Gift Ideas***. This organization keeps similar products together and makes the catalog easier to understand.
+
+# **Customer experience explanation**
+
+A clear navigation menu helps customers quickly find the products they are looking for without searching through the entire catalog. Organizing products into collections reduces browsing time and creates a smoother shopping experience. Customers can easily move between different product categories while exploring the store.
+
+# **CPP Farm Store application reflection**
+
+This assignment showed me how important product organization is for an online store. I think CPP Farm Store could improve its website by creating collections such as Fresh Produce, Pantry Favorites, Gift Baskets, and Seasonal Specials. A simple navigation structure would make it easier for customers to browse products, discover seasonal items, and shop online more efficiently.
+
+# Appendix
+
+GitHub Repo:
+
+GitHub Pages:
